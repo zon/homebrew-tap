@@ -1,8 +1,8 @@
 class Ralph < Formula
   desc "AI-powered development orchestration tool"
   homepage "https://github.com/zon/ralph"
-  url "https://github.com/zon/ralph/archive/refs/tags/v25.2.2.tar.gz"
-  sha256 "8ff0046b8804037447f9d8f510776466cee220058098d0434208c9aec9bd7415"
+  url "https://github.com/zon/ralph/archive/refs/tags/v25.2.4.tar.gz"
+  sha256 "95305a19260f546ac6ff8b6acd222fb002f5be5bf8e9d9862bfbbb7692cb1318"
   license "GPL-3.0-only"
 
   depends_on "go" => :build
